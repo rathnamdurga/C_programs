@@ -1,0 +1,21 @@
+img{
+    float: left;
+
+    margin: 40px 20px;
+}
+.center {
+    font-family:cursive;
+    padding: 100px 0;
+    font-style: italic;
+    
+    font-size:large;
+
+
+}
+body{
+    background-image: url("bg.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 1700px 1500px
+
+}
